@@ -1,3 +1,4 @@
 Profesor: Diego Barreira
+Asignatura: ED
 Alumno: gabriel porto
 Segundo Alumno: Xoel Montero 
